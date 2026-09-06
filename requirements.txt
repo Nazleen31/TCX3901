@@ -1,4 +1,4 @@
 Plaintext
 
-pandas
-matplotlib
+pandas==2.2.2
+matplotlib==3.8.4
